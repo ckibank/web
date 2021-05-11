@@ -1,2 +1,2 @@
 # web
-Webinar resources
+Webinar resources.
